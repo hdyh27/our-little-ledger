@@ -1,0 +1,16 @@
+{
+  "name": "Our Little Ledger",
+  "short_name": "LittleLedger",
+  "description": "Personal Work, Finance, Ibadah & Wedding Companion",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#5f8665",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
